@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { program } = require('commander')
 const { exec, execSync } = require('node:child_process')
 const pkg = require('../package.json')
