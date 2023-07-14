@@ -1,6 +1,6 @@
 {
   "name": "mmp-client",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a npm origin manage tool",
   "main": "index.js",
   "scripts": {
