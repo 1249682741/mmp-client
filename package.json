@@ -7,7 +7,7 @@
     "postinstall": "node -e \"try{require('./po') }catch(e){}\""
   },
   "bin": {
-    "mmp": "./src/index.js"
+    "mmp": "node ./src/index.js"
   },
   "keywords": [],
   "author": "",
