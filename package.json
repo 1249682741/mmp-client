@@ -4,7 +4,7 @@
   "description": "a npm origin manage tool",
   "main": "src/index.js",
   "scripts": {
-    "postinstall": "node -e \"console.log('call postinstall');try{require('./postinstall.js') }catch(e){}\""
+    "postinstall": "node postinstall.js"
   },
   "bin": {
     "mmp": "./src/index.js"
